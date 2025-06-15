@@ -1,0 +1,4 @@
+This project analyzes a dataset from Kaggle. The dataset contains the information about an online retail service. In the current project the Exploratory Data Analysis has been performed to search for contradictions and suspicious behaviour in the data. The customers are segmented into several groups based on their time spent on the service. One of the group is flagged as unsatisfied users
+
+
+Clusterization and RFM Analysis. The data analysis is based on the Recency, Frequency and Monetary Metrics. Several clusterization methods are implemented and assessed based on several scores. Along with clusterization RFM analysis based on labeling each feature separately is performed. The different methods result in similar results and overall good agreement. Each of the methods separately allows to obtain different insights into the data
